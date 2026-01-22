@@ -1,0 +1,9 @@
+{
+  "SeasonGame": {
+    "season": "Season 1",
+    "seasondesc": "Первый сезон игры"
+  },
+  "SeasonPass": {
+    "ItemPass": "Premium Pass"
+  }
+}
