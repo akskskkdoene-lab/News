@@ -68,11 +68,25 @@ Join the Discord server for:
 
 ---
 
-## 📜 License
+## 👥 Development Team
+
+**Sigma Daddy's_YT™** — Lead Developer  
+**MrDOORSik** — Co-Lead Developer
+
+---
+
+## 📜 License & Copyright
+
+© PROJECT: SHOWTIME
+
+Developed and maintained by:
+- Sigma Daddy's_YT™ (Lead Developer)
+- MrDOORSik (Co-Lead Developer)
+
+All rights reserved.
 
 This repository is maintained for internal server use.
-
-© PROJECT: SHOWTIME — All rights reserved.
+Redistribution or unauthorized modification of these files is not permitted.
 
 ---
 
