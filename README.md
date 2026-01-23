@@ -2,7 +2,8 @@
 
 Welcome to the **PROJECT: SHOWTIME Servers** configuration repository.
 
-This repository contains **all server-side variables and data** used by PJST game servers. These files control server logic, moderation systems, gameplay settings, and mod-related configurations.
+This repository contains **all server-side variables and data** used by PROJECT: SHOWTIME game servers.
+These files control server logic, moderation systems, gameplay settings, and mod-related configurations.
 
 ---
 
@@ -19,7 +20,7 @@ This repository contains **all server-side variables and data** used by PJST gam
 
 ## 🔄 How This Repository Is Used
 
-PJST servers automatically fetch data from this repository in order to:
+PROJECT: SHOWTIME servers automatically fetch data from this repository in order to:
 
 * Apply configuration changes without restarting
 * Synchronize server settings across instances
@@ -27,29 +28,29 @@ PJST servers automatically fetch data from this repository in order to:
 
 ---
 
-## 💬 Community & Support
+## 🔗 Mod Links
 
-### 🔗 Official Discord Server
+Official links related to **PROJECT: SHOWTIME**:
 
-Join our Discord community for:
+* 🎮 **GameBanana Mod Page**  
+  https://gamebanana.com/mods/591712
 
-* 📢 Announcements
-* 🛠 Technical support
-* 🧩 Modding discussions
-* 💬 Community chat
+* 💬 **Official Discord Server**  
+  https://discord.gg/CyK9Brt3Bk
 
-👉 **Discord:** [https://discord.gg/CyK9Brt3Bk](https://discord.gg/CyK9Brt3Bk)
+Use these links to download the mod, receive updates, and join the community.
 
 ---
 
-## 🛠 Support
+## 💬 Community & Support
 
 All support is handled **exclusively through Discord**.
 
-If you encounter issues, bugs, or have questions:
-
-* Join the Discord server
-* Open a support ticket or ask in the appropriate channel
+Join the Discord server for:
+* 📢 Announcements
+* 🛠 Technical support
+* 🧩 Mod & server discussions
+* 💬 Community chat
 
 ❗ GitHub Issues are **not** used for support requests.
 
@@ -57,16 +58,12 @@ If you encounter issues, bugs, or have questions:
 
 ## ⚠️ Important Notes
 
-* This repository **does NOT store player inventories, personal data, or progression data**
-
+* This repository **does NOT store player inventories**
+* No personal data or player progression is stored
 * No sensitive or private player information is kept here
-
-* Only **server configuration, variables, and moderation-related data** are stored
-
+* Only **server configuration, variables, and moderation-related data** are included
 * Do **not** edit files unless you understand their purpose
-
 * Changes may affect live servers immediately
-
 * Unauthorized modifications may result in access restrictions
 
 ---
@@ -76,3 +73,11 @@ If you encounter issues, bugs, or have questions:
 This repository is maintained for internal server use.
 
 © PROJECT: SHOWTIME — All rights reserved.
+
+---
+
+## 🖼 Mod Preview
+
+<a href="https://gamebanana.com/mods/591712">
+  <img src="https://gamebanana.com/mods/embeddables/591712?type=large"/>
+</a>
