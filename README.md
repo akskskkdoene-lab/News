@@ -75,4 +75,4 @@ If you encounter issues, bugs, or have questions:
 
 This repository is maintained for internal server use.
 
-© PROJECT: SHOWTIME Servers — All rights reserved.
+© PROJECT: SHOWTIME — All rights reserved.
