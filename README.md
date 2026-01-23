@@ -1,6 +1,6 @@
-# 🎮 PJST Servers
+# 🎮 PROJECT: SHOWTIME Servers
 
-Welcome to the **PJST Servers** configuration repository.
+Welcome to the **PROJECT: SHOWTIME Servers** configuration repository.
 
 This repository contains **all server-side variables and data** used by PJST game servers. These files control server logic, moderation systems, gameplay settings, and mod-related configurations.
 
@@ -75,4 +75,4 @@ If you encounter issues, bugs, or have questions:
 
 This repository is maintained for internal server use.
 
-© PJST Servers — All rights reserved.
+© PROJECT: SHOWTIME Servers — All rights reserved.
