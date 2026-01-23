@@ -57,8 +57,16 @@ If you encounter issues, bugs, or have questions:
 
 ## ⚠️ Important Notes
 
+* This repository **does NOT store player inventories, personal data, or progression data**
+
+* No sensitive or private player information is kept here
+
+* Only **server configuration, variables, and moderation-related data** are stored
+
 * Do **not** edit files unless you understand their purpose
+
 * Changes may affect live servers immediately
+
 * Unauthorized modifications may result in access restrictions
 
 ---
