@@ -92,6 +92,4 @@ Redistribution or unauthorized modification of these files is not permitted.
 
 ## 🖼 Mod Preview
 
-<a href="https://gamebanana.com/mods/591712">
-  <img src="https://gamebanana.com/mods/embeddables/591712?type=large"/>
-</a>
+<a href="https://gamebanana.com/mods/591712"><img src="https://gamebanana.com/mods/embeddables/591712?type=sd_image"/></a>
