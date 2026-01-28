@@ -1,9 +1,13 @@
 {
-"title": "Test New",
-"date": "01/18/26",
-"description": "g\n\ng\n\ng\n\ng\n\ng\n\ng\n\ng",
-"VersionName": "BETA",
-"VersionInt": "1.8.0",
-"ShowTimeNewsCosmetics": [193, 100, 471],
-"BannedIDs": [76561199386779371, 100, 471]
+  "title": "Test New",
+  "date": "01/18/26",
+  "description": "g\n\ng\n\ng\n\ng\n\ng\n\ng\n\ng",
+  "VersionName": "BETA",
+  "VersionInt": "1.8.0",
+  "ShowTimeNewsCosmetics": [193, 100, 471],
+  "BannedIDs": [
+    "76561199386779371",
+    "100",
+    "471"
+  ]
 }
