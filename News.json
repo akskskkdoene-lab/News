@@ -1,12 +1,13 @@
 {
-  "title": "Test New",
+  "title": "Test New / PHASE 3",
   "date": "01/18/26",
   "description": "g\n\ng\n\ng\n\ng\n\ng\n\ng\n\ng",
   "VersionName": "BETA",
   "VersionInt": "1.8.0",
-  "ShowTimeNewsCosmetics": [193, 100, 471],
+  "DeveloperCosmeticsPhase3": [193, 100, 471],
+  "DeveloperCosmeticsPhase2": [193, 100, 471],
   "BannedIDs": [
-    "76561199386779371",
+    "1",
     "100",
     "471"
   ]
