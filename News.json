@@ -7,14 +7,14 @@
   "VersionIntPhase2": "1.8.0",
   "DeveloperID": [
     "76561199386779371",
-    "100",
-    "471"
+    "76561199646299302",
+    "76561199275092719"
   ],
   "DeveloperCosmeticsPhase3": [1029, 1030, 1031, 1036],
-  "DeveloperCosmeticsPhase2": [193, 100],
+  "DeveloperCosmeticsPhase2": [1, 0],
   "BannedIDs": [
     "1",
-    "100",
-    "471"
+    "2",
+    "3"
   ]
 }
