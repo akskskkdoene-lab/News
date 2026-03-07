@@ -77,7 +77,7 @@ Join the Discord server for:
 
 ## 📜 License & Copyright
 
-© PROJECT: SHOWTIME
+© SHOWTIME: GAMES
 
 Developed and maintained by:
 - Sigma Daddy's_YT™ (Lead Developer)
